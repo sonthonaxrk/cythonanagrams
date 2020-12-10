@@ -4,7 +4,7 @@ Appologies for the delay in getting this over to you.  I appreciate this was a v
 
 I took the liberty of using Python *and* C++ for this task.  Please rest assured that I would never do this in a real world situation, and would absolutely choose a simpler stack (I was also considering using Keras to make probablilistic anagram checker but didn't want to embarass myself).
 
-Appologies for the quality of the code, I am extremely rusty. And I haven't packaged the code properly.
+Appologies for the quality of the code, I am extremely rusty. And I haven't packaged it properly.
 
 ## Usage
 
