@@ -8,7 +8,8 @@ setup(
     ext_modules=cythonize('src/anagrams_finder.pyx'),
     install_requires=[
         'Cython~=0.29.21',
-        'pytest~=6.1.2'
+        'pytest~=6.1.2',
+        'click=7.1.2',
     ],
     entry_points={
         'console_scripts': [
