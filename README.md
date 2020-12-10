@@ -1,4 +1,4 @@
-# Cython Anagrams for tech test
+# Cython Anagrams For Tech Test
 
 Appologies for the delay in getting this over to you.  I appreciate this was a very simple test, but since I'm doing this in my own time I prefer to get something out of it too; that is some revision, as I have not touched any code for a few months now.
 
